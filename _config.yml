@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-author: <a href="https://github.com/dh-erfurt">Digital Humanities Erfurt</a> 
-copyright: "2025"
-logo: img/logo.png
+author: <a href="https://github.com/dh-erfurt">Nina Brolich, Digital Humanities Erfurt</a> 
+copyright: "März 2026"
+title: "Nachbericht DHd"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

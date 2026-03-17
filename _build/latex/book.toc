@@ -1,0 +1,35 @@
+\xpginauxfiletrue 
+\selectlanguage *{english}
+\contentsline {part}{I\hspace {1em}Bericht zur Tagung}{3}{part.1}%
+\contentsline {chapter}{\numberline {1}Machine Learning}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Doctoral Consortium: Von der Handschrift zum Datensatz: Computergestützte Erschließung und Aufbereitung historischer Wetterdaten (Constantin Lehenmeier)}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Automatisierte Datenextraktion im Rahmen des FWF\sphinxhyphen {}Projekts ‚Digitale Erschließung des Schematismus‘ (Bernhard Ortbauer)}{5}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Digitale Editionen}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Workshop: TEI Publisher reloaded: Digitale Editionen mit System – modular, nachhaltig, community\sphinxhyphen {}orientiert (Richard Diebel, Nils Berns, Andreas Christ, Wolfgang Meier, Magdalena Turska, Lars Windauer)}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Doctoral Consortium: Möglichkeiten und Potenziale von inter\sphinxhyphen {} und transmedialen Editionen (Dennis Friedl)}{7}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Andere Highlights}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Keynote: Data As \_\_\_\_\_\_\_: Exploring the Plurality of Data in Visualization (Miriah Meyer)}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Doctoral Consortium: Die Vergangenheit umgibt uns – Digitalisiertes Kulturerbe durch situierte Visualisierung vor Ort erfahrbar machen (Markus Passecker)}{9}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Zwischen Struktur und Überraschung – Gestaltung explorativer Suchfunktionen für digitale Korpora (Anna Schlander)}{10}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Warum wir in den Digital Humanities messen (sollten) (Evelyn Gius)}{10}{section.3.4}%
+\contentsline {section}{\numberline {3.5}The Dialogue between Reason and Intuition in Contemporary Philosophy (Maximilian Noichl, Simon DeDeo)}{10}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Projektmanagement als Methode (Julia Alili)}{10}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Fazit zur Tagung}{11}{chapter.4}%
+\contentsline {part}{II\hspace {1em}Das Mentoring\sphinxhyphen {}Programm}{15}{part.2}%
+\contentsline {chapter}{\numberline {5}Das DHd\sphinxhyphen {}Mentoringprogramm}{17}{chapter.5}%
+\contentsline {section}{\numberline {5.1}An wen richtet sich das Programm?}{17}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Wobei unterstützt das Mentoring?}{17}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Formate und Veranstaltungen}{18}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Individuelles Mentoring}{18}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Peer\sphinxhyphen {}to\sphinxhyphen {}Peer\sphinxhyphen {}Mentoring}{18}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Begleitende Veranstaltungen}{18}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}Was ist Mentoring?}{18}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Was ist Mentoring nicht?}{19}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Weiterführende Links}{19}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Meine Erfahrungen}{21}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Kick\sphinxhyphen {}Off}{21}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Meetings}{21}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Fazit}{21}{section.6.3}%
+\contentsline {part}{III\hspace {1em}Arbeitsgruppen des DHd\sphinxhyphen {}Verbandes}{23}{part.3}%
+\contentsline {chapter}{\numberline {7}Übersicht zu den DHd\sphinxhyphen {}Arbeitsgruppen}{25}{chapter.7}%
+\xpginauxfilefalse 

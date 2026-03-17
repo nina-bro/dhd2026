@@ -4,15 +4,16 @@
 format: jb-book
 root: home
 parts:
-- caption: Preface
+- caption: Bericht zur Tagung
   chapters:
-  - file: preface/preface1
-  - file: preface/preface2
-- caption: Python Intro
+  - file: tagung/machine-learning
+  - file: tagung/digitale-editionen
+  - file: tagung/anderes
+  - file: tagung/fazit
+- caption: Das Mentoring-Programm
   chapters:
-  - file: python/python1
-  - file: python/python2
-  - file: python/notebook
-- caption: Bibliografie
+  - file: mentoring/programm
+  - file: mentoring/meine-erfahrungen
+- caption: Arbeitsgruppen des DHd-Verbandes
   chapters:
-  - file: bibliography
+  - file: arbeitsgruppen/uebersicht
