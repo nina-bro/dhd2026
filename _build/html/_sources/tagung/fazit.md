@@ -13,10 +13,10 @@ Nicht zuletzt empfand ich es als extrem bereichernd, eigene Beiträge vorzustell
 ![Bild 1](../img/1.jpg)
 ```
 
-```{tab-item} Festsaal
+```{tab-item} Empfang im Rathaus
 ![Bild 2](../img/2.jpg)
 ```
 
-```{tab-item} Empfang im Rathaus
+```{tab-item} Festsaal
 ![Bild 3](../img/3.jpg)
 ```
